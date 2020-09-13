@@ -1,0 +1,14 @@
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\bin\Debug\netcoreapp3.1\coreSistema.AccesoDatos.deps.json
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\bin\Debug\netcoreapp3.1\coreSistema.AccesoDatos.dll
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\obj\Debug\netcoreapp3.1\coreSistema.AccesoDatos.csprojAssemblyReference.cache
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\obj\Debug\netcoreapp3.1\coreSistema.AccesoDatos.AssemblyInfoInputs.cache
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\obj\Debug\netcoreapp3.1\coreSistema.AccesoDatos.AssemblyInfo.cs
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\bin\Debug\netcoreapp3.1\coreSistema.AccesoDatos.pdb
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\bin\Debug\netcoreapp3.1\coreSistema.Models.dll
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\bin\Debug\netcoreapp3.1\coreSistema.Utilidades.dll
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\bin\Debug\netcoreapp3.1\coreSistema.Models.pdb
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\bin\Debug\netcoreapp3.1\coreSistema.Utilidades.pdb
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\obj\Debug\netcoreapp3.1\coreSistema.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\obj\Debug\netcoreapp3.1\coreSistema.AccesoDatos.csproj.CopyComplete
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\obj\Debug\netcoreapp3.1\coreSistema.AccesoDatos.dll
+C:\Proyectos\coreSistema\coreSistema.AccesoDatos\obj\Debug\netcoreapp3.1\coreSistema.AccesoDatos.pdb

@@ -1,0 +1,9 @@
+C:\Proyectos\coreSistema\coreSistema.Utilidades\bin\Debug\netcoreapp3.1\coreSistema.Utilidades.deps.json
+C:\Proyectos\coreSistema\coreSistema.Utilidades\bin\Debug\netcoreapp3.1\coreSistema.Utilidades.dll
+C:\Proyectos\coreSistema\coreSistema.Utilidades\bin\Debug\netcoreapp3.1\coreSistema.Utilidades.pdb
+C:\Proyectos\coreSistema\coreSistema.Utilidades\obj\Debug\netcoreapp3.1\coreSistema.Utilidades.csprojAssemblyReference.cache
+C:\Proyectos\coreSistema\coreSistema.Utilidades\obj\Debug\netcoreapp3.1\coreSistema.Utilidades.AssemblyInfoInputs.cache
+C:\Proyectos\coreSistema\coreSistema.Utilidades\obj\Debug\netcoreapp3.1\coreSistema.Utilidades.AssemblyInfo.cs
+C:\Proyectos\coreSistema\coreSistema.Utilidades\obj\Debug\netcoreapp3.1\coreSistema.Utilidades.csproj.CoreCompileInputs.cache
+C:\Proyectos\coreSistema\coreSistema.Utilidades\obj\Debug\netcoreapp3.1\coreSistema.Utilidades.dll
+C:\Proyectos\coreSistema\coreSistema.Utilidades\obj\Debug\netcoreapp3.1\coreSistema.Utilidades.pdb

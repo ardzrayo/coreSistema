@@ -1,0 +1,9 @@
+C:\Proyectos\coreSistema\coreSistema.Models\bin\Debug\netcoreapp3.1\coreSistema.Models.deps.json
+C:\Proyectos\coreSistema\coreSistema.Models\bin\Debug\netcoreapp3.1\coreSistema.Models.dll
+C:\Proyectos\coreSistema\coreSistema.Models\obj\Debug\netcoreapp3.1\coreSistema.Models.csprojAssemblyReference.cache
+C:\Proyectos\coreSistema\coreSistema.Models\obj\Debug\netcoreapp3.1\coreSistema.Models.AssemblyInfoInputs.cache
+C:\Proyectos\coreSistema\coreSistema.Models\obj\Debug\netcoreapp3.1\coreSistema.Models.AssemblyInfo.cs
+C:\Proyectos\coreSistema\coreSistema.Models\bin\Debug\netcoreapp3.1\coreSistema.Models.pdb
+C:\Proyectos\coreSistema\coreSistema.Models\obj\Debug\netcoreapp3.1\coreSistema.Models.csproj.CoreCompileInputs.cache
+C:\Proyectos\coreSistema\coreSistema.Models\obj\Debug\netcoreapp3.1\coreSistema.Models.dll
+C:\Proyectos\coreSistema\coreSistema.Models\obj\Debug\netcoreapp3.1\coreSistema.Models.pdb
