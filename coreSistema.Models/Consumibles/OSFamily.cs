@@ -16,6 +16,8 @@ namespace Sistema.Entidades.Consumibles
 
         [Display(Name = "Estado")]
         public bool Estado { get; set; }
+
+
         //public virtual ICollection<OSVersion> osversion { get; set; }
         //public ICollection<VPS> vps { get; set; }
     }

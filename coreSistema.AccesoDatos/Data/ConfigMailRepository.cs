@@ -29,7 +29,7 @@ namespace coreSistema.AccesoDatos.Data
             objDesdeDb.Dia = configmail.Dia;
             objDesdeDb.Asunto = configmail.Asunto;
             objDesdeDb.Cuerpomail = configmail.Cuerpomail;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(ConfigMail configmail)
@@ -39,7 +39,7 @@ namespace coreSistema.AccesoDatos.Data
             _db.SaveChanges();
         }
 
-        public void Desactivar(ConfigMail configmaile)
+        public void Desactivar(ConfigMail configmail)
         {
             var objDesdeDb = _db.ConfigMail.FirstOrDefault(s => s.Idperiodo == configmail.Idperiodo);
             objDesdeDb.Estado = false;

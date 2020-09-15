@@ -28,7 +28,7 @@ namespace coreSistema.AccesoDatos.Data
             var objDesdeDb = _db.Pool.FirstOrDefault(s => s.Idpool == pool.Idpool);
             objDesdeDb.Poolname = pool.Poolname;
             objDesdeDb.Descripcion = pool.Descripcion;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(Pool pool)

@@ -26,7 +26,7 @@ namespace coreSistema.AccesoDatos.Data
         {
             var objDesdeDb = _db.VMType.FirstOrDefault(s => s.Idvmtype == vmtype.Idvmtype);
             objDesdeDb.Vmtypename = vmtype.Vmtypename;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(VMType vmtype)

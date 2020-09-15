@@ -25,7 +25,7 @@ namespace coreSistema.AccesoDatos.Data
         {
             var objDesdeDb = _db.Notifivps.FirstOrDefault(s => s.Idnotivps == notifivps.Idnotivps);
             objDesdeDb.Estado = true;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Desactivar(Notifivps notifivps)

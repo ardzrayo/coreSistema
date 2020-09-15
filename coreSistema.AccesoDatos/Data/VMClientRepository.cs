@@ -33,7 +33,7 @@ namespace coreSistema.AccesoDatos.Data
             objDesdeDb.Clientphone = vmclient.Clientphone;
             objDesdeDb.Clientcontact = vmclient.Clientcontact;
             objDesdeDb.Emailcontact_tecnico = vmclient.Emailcontact_tecnico;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(VMClient vmclient)

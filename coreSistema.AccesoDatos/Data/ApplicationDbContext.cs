@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using coreSistema.Models.Clientes;
+using coreSistema.Models.Usuarios;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Sistema.Entidades.Consumibles;
@@ -29,5 +30,6 @@ namespace coreSistema.AccesoDatos.Data
         public DbSet<Notifivps> Notifivps { get; set; }
         public DbSet<Pool> Pool { get; set; }
         public DbSet<VPS> VPS { get; set; }
+        public DbSet<ApplicationUser> ApplicationUser { get; set; }
     }
 }

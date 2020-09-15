@@ -26,7 +26,7 @@ namespace coreSistema.AccesoDatos.Data
         {
             var objDesdeDb = _db.OSFamily.FirstOrDefault(s => s.Idos == osfamily.Idos);
             objDesdeDb.Osfamilyname = osfamily.Osfamilyname;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(OSFamily osfamily)

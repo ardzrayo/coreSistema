@@ -26,7 +26,7 @@ namespace coreSistema.AccesoDatos.Data
         {
             var objDesdeDb = _db.NetworkBond.FirstOrDefault(s => s.Idnw == networkbond.Idnw);
             objDesdeDb.Nwbond = networkbond.Nwbond;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(NetworkBond networkbond)

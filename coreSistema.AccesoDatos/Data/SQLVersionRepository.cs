@@ -28,7 +28,7 @@ namespace coreSistema.AccesoDatos.Data
             objDesdeDb.Idsql = sqlversion.Idsql;
             objDesdeDb.MSsqlversion = sqlversion.MSsqlversion;
             objDesdeDb.Descripcion = sqlversion.Descripcion;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(SQLVersion sqlversion)

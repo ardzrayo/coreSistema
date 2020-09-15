@@ -26,7 +26,7 @@ namespace coreSistema.AccesoDatos.Data
         {
             var objDesdeDb = _db.SQLFamily.FirstOrDefault(s => s.Idsql == sqlfamily.Idsql);
             objDesdeDb.Mssql = sqlfamily.Mssql;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(SQLFamily sqlfamily)

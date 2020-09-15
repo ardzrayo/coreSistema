@@ -1,6 +1,7 @@
 ﻿using Sistema.Entidades.Servidores;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Sistema.Entidades.Consumibles
 {
@@ -18,6 +19,11 @@ namespace Sistema.Entidades.Consumibles
         [Display(Name = "Descripción")]
         public string Descripcion { get; set; }
         public bool Estado { get; set; }
+
+        //Parametros para relacionar
+        [ForeignKey("Idsql")]
+        public SQLFamily SQLFamily { get; set; }
+
         //public virtual SQLFamily sqlfamily { get; set; }
         //public ICollection<VPS> vps { get; set; }
     }

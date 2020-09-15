@@ -25,10 +25,10 @@ namespace coreSistema.AccesoDatos.Data
         public void Update(OSVersion osversion)
         {
             var objDesdeDb = _db.OSVersion.FirstOrDefault(s => s.Idosversion == osversion.Idosversion);
-            objDesdeDb.IdOS = osversion.IdOS;
+            objDesdeDb.Idos = osversion.Idos;
             objDesdeDb.Osversion = osversion.Osversion;
             objDesdeDb.Descripcion = osversion.Descripcion;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(OSVersion osversion)

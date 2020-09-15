@@ -34,17 +34,18 @@ namespace coreSistema.AccesoDatos.Data
             objDesdeDb.Hdisk = vps.Hdisk;
             objDesdeDb.Bandw = vps.Bandw;
             objDesdeDb.Idnw = vps.Idnw;
-            objDesdeDb.Idversion = vps.Idversion;
+            objDesdeDb.Idosversion = vps.Idosversion;
             objDesdeDb.Idsqlversion = vps.Idsqlversion;
             objDesdeDb.Internal_ip = vps.Internal_ip;
             objDesdeDb.External_ip = vps.External_ip;
             objDesdeDb.createon = vps.createon;
+            objDesdeDb.UsuarioId = vps.UsuarioId;
             objDesdeDb.Dnsname = vps.Dnsname;
             objDesdeDb.Idvmtype = vps.Idvmtype;
             objDesdeDb.Idpool = vps.Idpool;
             objDesdeDb.Notes = vps.Notes;
             objDesdeDb.Rmtaccesssal = vps.Rmtaccesssal;
-            _db.SaveChanges();
+            //_db.SaveChanges();
         }
 
         public void Activar(VPS vps)
